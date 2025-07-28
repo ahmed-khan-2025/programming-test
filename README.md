@@ -7,21 +7,13 @@ This project includes two implementations (Node.js and Python) of a Bingo game s
 - Calculates the final score as the sum of unmarked numbers multiplied by the winning 
 
 ## ▶️ How to Run
-### ✅ Option 1: Node.js
+### ✅ Option 1: Node.js, Option 2: Python, 
 #### Requirements
 - Node.js v12+ (tested with v20.19.2)
-
+- Python 3.6+
 #### Steps
-
 ```bash
 # Run the Node.js version
 node bingo.js
-
-✅ Option 2: Python
-Requirements
-Python 3.6+
-
-Steps
-bash
-python bingo.py
-
+# Run the Python version
+python bingo.js
